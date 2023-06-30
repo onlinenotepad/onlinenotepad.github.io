@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://onlinenotepad.org/</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/app</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/saving-files</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/opening-files</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/keyboard-shortcuts</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/clear-cookies</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://onlinenotepad.org/privacy</loc>
+  <lastmod>2022-06-27T15:53:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
